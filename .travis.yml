@@ -10,4 +10,4 @@ script:
 env:
   - PG_USERNAME='postgres'
 notifications:
-  webhooks: https://419b5682.ngrok.com/notifications
+  webhooks: https://419b5682.ngrok.com/travis/notifications
